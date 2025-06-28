@@ -12,6 +12,7 @@ age: 30
 
 ### 3. Hierarchy Through Indentation:
 YAML uses indentation (spaces, not tabs) to represent nested structures, like dictionaries or lists. Proper indentation is crucial as it defines the structure of the data.
+Usually, 2 or 4 spaces are used to denote indentation
 ```
 address:
   street: 123 Main St
